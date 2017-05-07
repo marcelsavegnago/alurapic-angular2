@@ -32,4 +32,4 @@ $ npm start
 
 ## Acessando o serviço
 
-Abra o navegador e acesse [http://localhost:3000] (http://localhost:3000)
+Abra o navegador e acesse [http://localhost:3000](http://localhost:3000)
